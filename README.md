@@ -1,1 +1,2 @@
 This is a personal website created and designed by Shreyasi Kanse, for the 2025 Athena Awards. 
+Wooo! It took quite some time to make this. This was my first ever time using HTML, and wow, I learned a lot! It took some time importing the images. At one point, I wanted a background image, but all the ones I kept finding were too small, and didn't let the text be readable. I enjoyed making this project a lot!
